@@ -1,0 +1,12 @@
+.admin-app_footer{
+	position: absolute;
+	left:200px;
+	bottom: 0;
+	height: 36px;
+	right: 0;
+	background-color:#eee;
+}
+.admin-app_footer p{
+	line-height: 36px;
+	text-align: center;
+}

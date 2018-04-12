@@ -1,0 +1,28 @@
+
+.login{
+	width:330px;
+	height:300px;
+	position:relative;
+	top:200px;
+	font-size: 14px;
+	margin: 0 auto;
+	text-align: center;
+	background-color:white;
+	border: 1px solid #c2c2c2
+}
+.login h1{
+	padding-top:32px;
+	padding-bottom: 22px;
+	font-size: 26px;
+	font-weight: 400;
+}
+.login input{
+	height: 36px;
+	width: 198px;
+	margin: 10px 0;
+	padding-left: 10px;
+	border:1px solid #e2e2e2;
+}
+.submit{
+	color: #009688;
+}

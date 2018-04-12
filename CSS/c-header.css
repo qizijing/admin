@@ -1,0 +1,27 @@
+ .admin-app_header{
+	width: 100%;
+	height: 70px;
+	background-color:white;
+}
+.title{
+	width: 200px;
+	background-color: red;
+}
+.title h1{
+	font-size: 25px;
+	line-height:65px;
+}
+.account{
+	background-color: blue;
+	position: absolute;
+	top: 0;
+	right: 10px;
+	width: 120px;
+}
+.account .logo{
+	background-image: url('
+');
+}
+.submenu{
+	
+}

@@ -1,0 +1,28 @@
+.admin-app_menu{
+	position: absolute;;
+	top: 70px;
+	bottom: 0;
+	width: 200px;
+	background-color:green; 
+}
+.admin-app-menu{
+	position: absolute;
+	top: ;
+	width: 200px;
+	color: #c2c2c2;
+}
+.menu-bar{
+	height: 45px;
+	margin-left: 20px;
+}
+.menu-bar span{
+	line-height: 45px;
+	display: inline-block;
+	width: 100px;
+}
+.menu-items{
+	height: 40px;
+}
+.item p{
+	line-height: 40px;
+}
